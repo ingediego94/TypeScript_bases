@@ -45,11 +45,15 @@ console.log(languages[0]);
 
 // 3.2 Tuplas:
 let usuario: [string, number] = ['Carlos', 32];
-let user  = ['Valentina', 32, true, 
+let user  = [
+    'Valentina', 
+    32, 
+    true, 
     {
         estudios:['Geografo', 'Tecnico'], 
         universidades: ['Udenar', 'Sena']
-    }]
+    }];
+    
 console.log(user);
 
 
