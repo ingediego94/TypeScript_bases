@@ -134,3 +134,7 @@ switch(condicional){
 let isMember = true;
 let discount = isMember ? 0.2 : 0;
 console.log(`El descuento es del: ${(discount * 100)} %.`);
+
+
+
+// BUCLES:
